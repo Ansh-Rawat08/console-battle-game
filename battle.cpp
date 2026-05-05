@@ -286,7 +286,7 @@ int main() {
     Player player;
     int level = 1;
 
-    cout << "\n========= BATTLE =========\n";
+    cout << "\n========= BATTLE ARENA =========\n";
     cout << "1. New Game\n";
     cout << "2. Load Game\n";
     cout << "3. Quit\n";
