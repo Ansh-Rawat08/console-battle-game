@@ -121,7 +121,7 @@ public:
     int attack() override {
         if (rand() % 5 == 0) {
             cout << " Critical Hit!\n";
-            return 2 * attackPower + 1;
+            return 2 * attackPower;
         }
         return attackPower;
     }
