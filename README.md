@@ -26,19 +26,13 @@ The player fights different enemy types with attack, defense, and special abilit
 - Fixed progression (Level 1 → 3)
 - Player heals after each win
 
-##  Project Structure
-- src/
--    ├── character_system.h # Core classes (Player, Enemy)
--    ├── battle_system.h # Combat logic
--    └── game_controller.cpp # Game flow + main
-
 # Team Members
 ## Member 1: 
-- Character System (OOP Design)
+- PLAYER LOGIC (OOP Design)
 ## Member 2:
-- Battle System (Game Mechanics)
+- ENEMY LOGIC (Game Mechanics)
 ## Member 3: 
-- Game Controller (Flow & Modes)
+- FILE SAVE AND MENU (Flow & Modes)
 # Limitations
 - No save/load system
 - No scoring or XP system
